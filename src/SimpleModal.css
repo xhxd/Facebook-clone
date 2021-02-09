@@ -1,0 +1,14 @@
+.Modal {
+    height: 500px;
+    width: 800px;
+    background-color: white;
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transform: translate(-50%, -50%);
+    border: none;
+}

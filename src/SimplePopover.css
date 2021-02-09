@@ -1,0 +1,21 @@
+.post__moreIcon {
+    padding: 10px;
+}
+
+.delete__button > .MuiSvgIcon-root {
+    color: red;
+}
+
+.delete__button {
+    display: flex;
+    cursor: pointer;
+}
+
+.deleteModal__title {
+    padding: 30px;
+}
+
+.deleteModal__button {
+    display: flex;
+    justify-content: space-evenly;
+}
